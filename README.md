@@ -1,9 +1,9 @@
 <h1 align="center">Hello there ! General Kenobi xd</h1>
 <h3 align="center">Backend developer - Python <3</h3>
 
-- 🔭 I’m currently working on **Python and JavaScript projects**
+- 🔭Momentálně pracuji na: **Python a JavaScript projektech**
 
-- 🌱 I’m currently learning **Python modules and JavaScript**
+- 🌱 Momentálně se učím: **Python moduly a práci s JavaScriptem**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
