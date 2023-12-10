@@ -1,9 +1,9 @@
 <h1 align="center">Hello there ! General Kenobi xd</h1>
 <h3 align="center">Backend developer - Python <3</h3>
 
-- 🔭Momentálně pracuji na: **Python a JavaScript projektech**
-
-- 🌱 Momentálně se učím: **Python moduly a práci s JavaScriptem**
+- Momentálně pracuji na: **Python, JavaScript a TypeScript projektech**
+- Momentálně se učím: **Python moduly, základy JavaScriptu a TypeScript**
+  
 
 ![agr-agraelus](https://github.com/ondrejfila6969/ondrejfila6969/assets/114986357/6ef90f9c-c9cb-4c72-8a43-8a111dd4c3b3)
 <p align="left">
