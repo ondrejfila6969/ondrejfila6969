@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hello there, General Kenobi!</h1>
-<br/>
 <h2 align="left">💻 Aspiring Full-Stack Developer & Student from the Czech Republic</h2>
 
 <p align="left">
@@ -7,9 +6,6 @@
   🔧 Working on personal development projects<br/>
   🚀 Focused on mastering <strong>TypeScript backend technologies</strong>
 </p>
-
-<br/>
-
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
