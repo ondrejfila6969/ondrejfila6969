@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there, General Kenobi!</h1>
-<h2 align="left">💻 Aspiring Full-Stack Developer & Student from the Czech Republic</h2>
+<h2 align="center">💻 Aspiring Full-Stack Developer & Student from the Czech Republic</h2>
 
 <h4 align="left">
   🎓 <strong>Currently studying at Secondary Technical School in Mladá Boleslav</strong><br/>
