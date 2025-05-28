@@ -8,7 +8,7 @@
 </p>
 <h2 align="center">🛠️ Languages & Tools</h2>
 
-### 🌐 Web Technologies
+<h3 align="center">🌐 Web Technologies</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />
@@ -17,29 +17,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
 </p>
 
-### 💻 Programming Languages & Frameworks
+<h3 align="center">💻 Programming Languages & Frameworks</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" title=".NET" />
 </p>
 
-### 💾 Databases
+<h3 align="center">💾 Databases</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
 </p>
 
-### 🕹️ Game Development & Virtual Reality
+<h3 align="center">🕹️ Game Development & Virtual Reality</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="45" title="Unreal Engine" />
 </p>
 
-### 🔧 Version Control & Operating Systems
-<p align="left">
+<h3 align="center">🔧 Version Control & Operating Systems</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux" />
 </p>
+
 <h2 align="left">📫 Let's Connect</h2>
 
 <p align="left">
