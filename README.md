@@ -1,6 +1,4 @@
-<center>
-  <h1>👋 Hello there, General Kenobi!</h1>
-</center>
+<h1 align="center">👋 Hello there, General Kenobi!</h1>
 
 <br/><br/><br/>
 
