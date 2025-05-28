@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hello there, General Kenobi!</h1>
 <h2 align="left">💻 Aspiring Full-Stack Developer & Student from the Czech Republic</h2>
 
-<p align="left">
+<h4 align="left">
   🎓 <strong>Currently studying at Secondary Technical School in Mladá Boleslav</strong><br/>
   🔧 Working on personal development projects<br/>
   🚀 Focused on mastering <strong>TypeScript backend technologies</strong>
-</p>
+</h4>
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <h3 align="center">🌐 Web Technologies</h3>
@@ -53,8 +53,8 @@
 
 <h2 align="left">📫 Let's Connect</h2>
 
-<p align="left">
+<h4 align="left">
   📧 <strong>Email:</strong> <a href="mailto:ofila12@seznam.cz">ofila12@seznam.cz</a><br/>
   🌐 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ond%C5%99ej-f%C3%ADla-4043272a5/">Ondřej Fíla</a><br/>
   💬 <strong>Discord:</strong> <code>xxxondraxxx</code>
-</p>
+</h4>
