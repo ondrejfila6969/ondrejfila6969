@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hello there, General Kenobi!</h1>
-
-<br/><br/><br/>
-
+<br/>
 <h2 align="left">💻 Aspiring Full-Stack Developer & Student from the Czech Republic</h2>
 
 <p align="left">
@@ -10,7 +8,7 @@
   🚀 Focused on mastering <strong>TypeScript backend technologies</strong>
 </p>
 
-<br/><br/><br/>
+<br/>
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
@@ -29,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="45" />
 </p>
-
-<br/><br/><br/>
 
 <h2 align="left">📫 Let's Connect</h2>
 
