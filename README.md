@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there, General Kenobi!</h1>
 <h2 align="center">Aspiring Full-Stack Developer & Student from the Czech Republic</h2>
 
-<h4 align="left">
+<h4 align="center">
   💻 18 yo single dev from Czech republic <br/>
   🎓 <strong>Currently studying at Secondary Technical School in Mladá Boleslav</strong><br/>
   🔧 Working on personal development projects<br/>
@@ -52,9 +52,9 @@
   </a>
 </p>
 
-<h2 align="left">📫 Let's Connect</h2>
+<h2 align="center">📫 Let's Connect</h2>
 
-<p align="left" style="display:flex; gap:20px;">
+<p align="center" style="display:flex; gap:20px;">
   <a href="mailto:ofila12@seznam.cz" title="Email" target="_blank" rel="noopener noreferrer" style="background:#fff; border-radius:12px; padding:10px; display:flex; align-items:center;">
     <img src="https://skillicons.dev/icons?i=gmail&size=60" alt="Email icon" />
   </a>
@@ -63,18 +63,5 @@
   </a>
   <a href="https://discord.com/users/xxxondraxxx" title="Discord" target="_blank" rel="noopener noreferrer" style="background:#5865F2; border-radius:12px; padding:10px; display:flex; align-items:center;">
     <img src="https://skillicons.dev/icons?i=discord&size=60" alt="Discord icon" style="filter: brightness(100%) invert(0);" />
-  </a>
-</p>
-<h2 align="left">📫 Let's Connect</h2>
-
-<p align="left" style="display:flex; gap:20px;">
-  <a href="mailto:ofila12@seznam.cz" title="Email" target="_blank" rel="noopener noreferrer" style="background:#fff; border-radius:12px; padding:10px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://skillicons.dev/icons?i=gmail&size=60" />
-  </a>
-  <a href="https://www.linkedin.com/in/ond%C5%99ej-f%C3%ADla-4043272a5/" title="LinkedIn" target="_blank" rel="noopener noreferrer" style="background:#0A66C2; border-radius:12px; padding:10px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://skillicons.dev/icons?i=linkedin&size=60" style="filter: brightness(100%) invert(0);" />
-  </a>
-  <a href="https://discord.com/users/xxxondraxxx" title="Discord" target="_blank" rel="noopener noreferrer" style="background:#5865F2; border-radius:12px; padding:10px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://skillicons.dev/icons?i=discord&size=60" style="filter: brightness(100%) invert(0);" />
   </a>
 </p>
