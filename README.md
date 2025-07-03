@@ -1,58 +1,63 @@
-<h1 align="center">👋 Hello there, General Kenobi!</h1>
-<h2 align="center">Aspiring Full-Stack Developer & Student from the Czech Republic</h2>
+<h1 align="center" style="text-align: justify;">
+  👋 Hello there, General Kenobi!
+</h1>
 
-<h4 align="center">
+<h2 align="center" style="text-align: justify;">
+  Aspiring Full-Stack Developer & Student from the Czech Republic
+</h2>
+
+<h4 align="center" style="text-align: justify;">
   💻 18 yo single dev from Czech republic <br/>
   🎓 <strong>Currently studying at Secondary Technical School in Mladá Boleslav</strong><br/>
   🔧 Working on personal development projects<br/>
   🚀 Focused on mastering <strong>TypeScript backend technologies</strong>
 </h4>
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+<h2 align="center" style="text-align: justify;">🛠️ Languages & Tools</h2>
 
-<h3 align="center">🌐 Web Technologies</h3>
+<h3 align="center" style="text-align: justify;">🌐 Web Technologies</h3>
 <p align="center">
   <a href="https://skillicons.dev" title="Skill Icons">
     <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,express,nodejs,json&size=60" alt="Web Technologies icons" />
   </a>
 </p>
 
-<h3 align="center">💻 Programming Languages & Frameworks</h3>
+<h3 align="center" style="text-align: justify;">💻 Programming Languages & Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=python,cs,java,dotnet&size=60" alt="Programming Languages icons" style="background:#68217a; border-radius:12px; padding:12px;" />
+    <img src="https://skillicons.dev/icons?i=python,csharp,java,dotnet&size=60" alt="Programming Languages icons" style="background:#68217a; border-radius:12px; padding:12px;" />
   </a>
 </p>
 
-<h3 align="center">💾 Databases</h3>
+<h3 align="center" style="text-align: justify;">💾 Databases</h3>
 <p align="center">
   <a href="https://skillicons.dev" title="Skill Icons">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql&size=60" alt="Databases icons" />
   </a>
 </p>
 
-<h3 align="center">🕹️ Game Development & VR & 3D modelling</h3>
+<h3 align="center" style="text-align: justify;">🕹️ Game Development & VR & 3D modelling</h3>
 <p align="center">
   <a href="https://skillicons.dev" title="Skill Icons">
     <img src="https://skillicons.dev/icons?i=unreal,blender&size=60" alt="Game Dev & 3D modelling icons" />
   </a>
 </p>
 
-<h3 align="center">🔧 Version Control & Operating Systems</h3>
+<h3 align="center" style="text-align: justify;">🔧 Version Control & Operating Systems</h3>
 <p align="center">
   <a href="https://skillicons.dev" title="Skill Icons">
     <img src="https://skillicons.dev/icons?i=git,linux&size=60" alt="Version Control & OS icons" />
   </a>
 </p>
 
-<h3 align="center">🎨 Design & Prototyping</h3>
+<h3 align="center" style="text-align: justify;">🎨 Design & Prototyping</h3>
 <p align="center">
   <a href="https://skillicons.dev" title="Skill Icons">
     <img src="https://skillicons.dev/icons?i=figma&size=60" alt="Design icons" />
   </a>
 </p>
 
-<h2 align="center">📫 Let's Connect</h2>
+<h2 align="center" style="text-align: justify;">📫 Let's Connect</h2>
 
 <p align="center" style="display:flex; gap:20px;">
   <a href="mailto:ofila12@seznam.cz" title="Email" target="_blank" rel="noopener noreferrer" style="background:#fff; border-radius:12px; padding:10px; display:flex; align-items:center;">
