@@ -25,7 +25,7 @@
 <h3 align="center" style="text-align: justify;">💻 Programming Languages & Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=python,csharp,java,dotnet&size=60" alt="Programming Languages icons" style="background:#68217a; border-radius:12px; padding:12px;" />
+    <img src="https://skillicons.dev/icons?i=python,cs,java,dotnet&size=60" alt="Programming Languages icons" style="background:#68217a; border-radius:12px; padding:12px;" />
   </a>
 </p>
 
