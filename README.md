@@ -7,15 +7,17 @@
 </h2>
 
 <h4 align="center" style="text-align: justify;">
-  💻 18 yo single dev from Czech republic <br/>
+  <div align="center" style="text-align: center; font-size: 1.1rem; line-height: 1.6; max-width: 600px; margin: auto;">
+  💻 18 yo single dev from Czech Republic<br/>
   🎓 <strong>Currently studying at Secondary Technical School in Mladá Boleslav</strong><br/>
   🔧 Working on personal development projects<br/>
   🚀 Focused on mastering <strong>TypeScript backend technologies</strong>
+</div>
 </h4>
 
 <h2 align="center" style="text-align: justify;">🛠️ Languages & Tools</h2>
 
-<h3 style="text-align: center;">🌐 Web Technologies</h3>
+<h3 align="center">🌐 Web Technologies</h3>
 
 <p align="center">
       <a href="https://skillicons.dev" title="Skill Icons">
