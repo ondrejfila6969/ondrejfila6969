@@ -16,9 +16,9 @@
 <h2 align="center" style="text-align: justify;">🛠️ Languages & Tools</h2>
 
 <h3 style="text-align: center;">🌐 Web Technologies</h3>
-<div style="width: 100%; display: flex; justify-content: center;">
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 800px;">
-    <a href="https://skillicons.dev" title="Skill Icons">
+
+<p align="center">
+      <a href="https://skillicons.dev" title="Skill Icons">
       <img src="https://skillicons.dev/icons?i=html&size=60" alt="HTML icon" />
     </a>
     <a href="https://skillicons.dev" title="Skill Icons">
@@ -45,8 +45,7 @@
     <a href="https://skillicons.dev" title="Skill Icons">
       <img src="https://skillicons.dev/icons?i=json&size=60" alt="JSON icon" />
     </a>
-  </div>
-</div>
+</p>
 
 <h3 align="center" style="text-align: justify;">💻 Programming Languages & Frameworks</h3>
 <p align="center">
