@@ -45,9 +45,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs&size=60" alt="Node icon" />
   </a>
   <a href="https://skillicons.dev" title="Skill Icons">
-      <img src="https://skillicons.dev/icons?i=json&size=60" alt="JSON icon" />
-    </a>
-  <a href="https://skillicons.dev" title="Skill Icons">
     <img src="https://skillicons.dev/icons?i=npm&size=60" alt="NPM icon" />
   </a>
   <a href="https://skillicons.dev" title="Skill Icons">
