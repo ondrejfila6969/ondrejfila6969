@@ -19,35 +19,45 @@
 
 <h3 align="center">🌐 Web Technologies</h3>
 
-<p align="center">
-      <a href="https://skillicons.dev" title="Skill Icons">
-      <img src="https://skillicons.dev/icons?i=html&size=60" alt="HTML icon" />
-    </a>
-    <a href="https://skillicons.dev" title="Skill Icons">
-      <img src="https://skillicons.dev/icons?i=css&size=60" alt="CSS icon" />
-    </a>
-    <a href="https://skillicons.dev" title="Skill Icons">
-      <img src="https://skillicons.dev/icons?i=scss&size=60" alt="SCSS icon" />
-    </a>
-    <a href="https://skillicons.dev" title="Skill Icons">
-      <img src="https://skillicons.dev/icons?i=js&size=60" alt="JS icon" />
-    </a>
-    <a href="https://skillicons.dev" title="Skill Icons">
-      <img src="https://skillicons.dev/icons?i=ts&size=60" alt="TS icon" />
-    </a>
-    <a href="https://skillicons.dev" title="Skill Icons">
-      <img src="https://skillicons.dev/icons?i=react&size=60" alt="React icon" />
-    </a>
-    <a href="https://skillicons.dev" title="Skill Icons">
-      <img src="https://skillicons.dev/icons?i=express&size=60" alt="Express icon" />
-    </a>
-    <a href="https://skillicons.dev" title="Skill Icons">
-      <img src="https://skillicons.dev/icons?i=nodejs&size=60" alt="Node icon" />
-    </a>
-    <a href="https://skillicons.dev" title="Skill Icons">
-      <img src="https://skillicons.dev/icons?i=json&size=60" alt="JSON icon" />
-    </a>
+<p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=html&size=60" alt="HTML icon" />
+  </a>
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=css&size=60" alt="CSS icon" />
+  </a>
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=scss&size=60" alt="SCSS icon" />
+  </a>
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=js&size=60" alt="JS icon" />
+  </a>
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=ts&size=60" alt="TS icon" />
+  </a>
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=react&size=60" alt="React icon" />
+  </a>
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=express&size=60" alt="Express icon" />
+  </a>
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=nodejs&size=60" alt="Node icon" />
+  </a>
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=json&size=60" alt="JSON icon" />
+  </a>
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=npm&size=60" alt="NPM icon" />
+  </a>
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=postman&size=60" alt="Postman icon" />
+  </a>
+  <a href="https://skillicons.dev" title="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=bootstrap&size=60" alt="Bootstrap icon" />
+  </a>
 </p>
+
 
 <h3 align="center" style="text-align: justify;">💻 Programming Languages & Frameworks</h3>
 <p align="center">
