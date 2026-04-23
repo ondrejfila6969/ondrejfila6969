@@ -13,12 +13,13 @@
 <img src="https://img.shields.io/badge/Focus-TypeScript_Backend-a78bfa?style=for-the-badge&labelColor=0f0c29" />
 </div>
 
-<table>
+<div align="center">
+  <table>
 <tr>
 <td valign="top" width="100%">
 
 ```ts
-const ondrej: Developer = {
+const ondra: Developer = {
   age:       19,
   location:  "Czech Republic 🇨🇿",
   education: "SPŠ Mladá Boleslav",
@@ -35,9 +36,9 @@ const ondrej: Developer = {
   ],
 
   hobbies: [
-    "Game Dev 🎮",
-    "3D Modelling 🧊",
-    "Open Source 🌍",
+    "Video games  🎮",
+    "Programming 🧊",
+    "Travelling 🌍",
   ],
 
   contact:   "ofila12@seznam.cz",
@@ -48,6 +49,7 @@ const ondrej: Developer = {
 </td>
 </tr>
 </table>
+</div>
 
 🛠️ Tech Stack
 🌐 Web Technologies
