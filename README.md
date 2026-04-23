@@ -15,7 +15,7 @@
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="100%">
 
 ```ts
 const ondrej: Developer = {
@@ -45,17 +45,6 @@ const ondrej: Developer = {
 };
 ```
 
-</td>
-<td valign="top" width="45%">
-
-| | |
-|---|---|
-| 🏫 | SPŠ Mladá Boleslav |
-| 🔭 | Building with **TypeScript & Node.js** |
-| 📚 | Learning **Advanced TS** & **GraphQL** |
-| 🎮 | Game Dev & 3D Modelling |
-| 💬 | Ask me about **backend architecture** |
-| 📫 | ofila12@seznam.cz |
 </td>
 </tr>
 </table>
