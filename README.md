@@ -48,7 +48,6 @@ const ondrej: Developer = {
 </td>
 </tr>
 </table>
-> *Crafting clean code, one commit at a time. Always building, always learning.*
 ---
 🛠️ Tech Stack
 🌐 Web Technologies
