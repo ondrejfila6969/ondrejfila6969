@@ -48,7 +48,7 @@ const ondrej: Developer = {
 </td>
 </tr>
 </table>
----
+
 🛠️ Tech Stack
 🌐 Web Technologies
 <p align="center">
@@ -70,7 +70,7 @@ const ondrej: Developer = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,figma&theme=dark" />
 </p>
----
+
 📊 GitHub Stats
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ondrejfila6969&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
@@ -79,7 +79,7 @@ const ondrej: Developer = {
 <br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ondrejfila6969&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
----
+
 
 📫 Let's Connect
 
@@ -89,7 +89,6 @@ const ondrej: Developer = {
 <img src="https://img.shields.io/badge/Discord-xxxondraxxx-a78bfa?style=for-the-badge&logo=discord&logoColor=white&labelColor=0f0c29" alt="Discord" />
 </div>
 
----
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
