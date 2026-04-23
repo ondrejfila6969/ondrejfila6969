@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ondřej%20Fíla&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Czech%20Republic&descAlignY=58&descSize=18&animation=fadeIn" />
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=18+y.o.+Full-Stack+Developer;TypeScript+%26+Node.js+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=19+y.o.+Full-Stack+Developer;TypeScript+%26+Node.js+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 <br/>
 <!-- PROFILE BADGES -->
@@ -12,19 +12,53 @@
 <img src="https://img.shields.io/badge/SPŠ_Mladá_Boleslav-Student-a78bfa?style=for-the-badge&labelColor=0f0c29" />
 <img src="https://img.shields.io/badge/Focus-TypeScript_Backend-a78bfa?style=for-the-badge&labelColor=0f0c29" />
 </div>
----
-🧑‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ```ts
-const ondrej = {
-  age:        18,
-  location:   "Czech Republic 🇨🇿",
-  education:  "Secondary Technical School, Mladá Boleslav",
-  focus:      ["TypeScript", "Node.js", "Backend Architecture"],
-  currentlyLearning: ["Advanced TypeScript patterns", "REST & GraphQL APIs"],
-  hobbies:    ["Game Dev", "3D Modelling", "Open Source"],
-  contact:    "ofila12@seznam.cz",
+const ondrej: Developer = {
+  age:       19,
+  location:  "Czech Republic 🇨🇿",
+  education: "SPŠ Mladá Boleslav",
+
+  focus: [
+    "TypeScript",
+    "Node.js",
+    "Backend Architecture",
+  ],
+
+  learning: [
+    "Advanced TypeScript patterns",
+    "REST & GraphQL APIs",
+  ],
+
+  hobbies: [
+    "Game Dev 🎮",
+    "3D Modelling 🧊",
+    "Open Source 🌍",
+  ],
+
+  contact:   "ofila12@seznam.cz",
+  available:  true,
 };
 ```
+
+</td>
+<td valign="top" width="45%">
+
+| | |
+|---|---|
+| 🏫 | SPŠ Mladá Boleslav |
+| 🔭 | Building with **TypeScript & Node.js** |
+| 📚 | Learning **Advanced TS** & **GraphQL** |
+| 🎮 | Game Dev & 3D Modelling |
+| 💬 | Ask me about **backend architecture** |
+| 📫 | ofila12@seznam.cz |
+</td>
+</tr>
+</table>
 > *Crafting clean code, one commit at a time. Always building, always learning.*
 ---
 🛠️ Tech Stack
