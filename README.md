@@ -1,106 +1,72 @@
-<h1 align="center" style="text-align: justify;">
-  👋 Hello there, General Kenobi!
-</h1>
-
-<h2 align="center" style="text-align: justify;">
-  Aspiring Full-Stack Developer & Student from the Czech Republic
-</h2>
-
-<h4 align="center" style="text-align: justify;">
-  <div align="center" style="text-align: center; font-size: 1.1rem; line-height: 1.6; max-width: 600px; margin: auto;">
-  💻 18 yo single dev from Czech Republic<br/>
-  🎓 <strong>Currently studying at Secondary Technical School in Mladá Boleslav</strong><br/>
-  🔧 Working on personal development projects<br/>
-  🚀 Focused on mastering <strong>TypeScript backend technologies</strong>
+<div align="center">
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ondřej%20Fíla&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Czech%20Republic&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=18+y.o.+Full-Stack+Developer;TypeScript+%26+Node.js+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
+<br/>
+<!-- PROFILE BADGES -->
+![Age](https://img.shields.io/badge/Age-18-a78bfa?style=for-the-badge&labelColor=0f0c29)
+![Location](https://img.shields.io/badge/Czech_Republic-🇨🇿-a78bfa?style=for-the-badge&labelColor=0f0c29)
+![School](https://img.shields.io/badge/SPŠ_Mladá_Boleslav-Student-a78bfa?style=for-the-badge&labelColor=0f0c29)
+![Focus](https://img.shields.io/badge/Focus-TypeScript_Backend-a78bfa?style=for-the-badge&labelColor=0f0c29)
 </div>
-</h4>
-
-<h2 align="center" style="text-align: justify;">🛠️ Languages & Tools</h2>
-
-<h3 align="center">🌐 Web Technologies</h3>
-
-<p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=html&size=60" alt="HTML icon" />
-  </a>
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=css&size=60" alt="CSS icon" />
-  </a>
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=scss&size=60" alt="SCSS icon" />
-  </a>
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=js&size=60" alt="JS icon" />
-  </a>
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=ts&size=60" alt="TS icon" />
-  </a>
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=react&size=60" alt="React icon" />
-  </a>
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=express&size=60" alt="Express icon" />
-  </a>
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=nodejs&size=60" alt="Node icon" />
-  </a>
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=npm&size=60" alt="NPM icon" />
-  </a>
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=postman&size=60" alt="Postman icon" />
-  </a>
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=bootstrap&size=60" alt="Bootstrap icon" />
-  </a>
-</p>
-
-
-<h3 align="center" style="text-align: justify;">💻 Programming Languages & Frameworks</h3>
+---
+🧑‍💻 About Me
+```ts
+const ondrej = {
+  age:        18,
+  location:   "Czech Republic 🇨🇿",
+  education:  "Secondary Technical School, Mladá Boleslav",
+  focus:      ["TypeScript", "Node.js", "Backend Architecture"],
+  currentlyLearning: ["Advanced TypeScript patterns", "REST & GraphQL APIs"],
+  hobbies:    ["Game Dev", "3D Modelling", "Open Source"],
+  contact:    "ofila12@seznam.cz",
+};
+```
+> *Crafting clean code, one commit at a time. Always building, always learning.*
+---
+🛠️ Tech Stack
+🌐 Web Technologies
 <p align="center">
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=python,cs,java,dotnet&size=60" alt="Programming Languages icons" style="background:#68217a; border-radius:12px; padding:12px;" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nodejs,express,npm,postman,bootstrap&theme=dark" />
 </p>
-
-<h3 align="center" style="text-align: justify;">💾 Databases</h3>
+💻 Languages & Frameworks
 <p align="center">
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql&size=60" alt="Databases icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,cs,java,dotnet&theme=dark" />
 </p>
-
-<h3 align="center" style="text-align: justify;">🕹️ Game Development & VR & 3D modelling</h3>
+💾 Databases
 <p align="center">
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=unreal,blender&size=60" alt="Game Dev & 3D modelling icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </p>
-
-<h3 align="center" style="text-align: justify;">🔧 Version Control & Operating Systems</h3>
+🎮 Game Dev · VR · 3D
 <p align="center">
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=git,linux&size=60" alt="Version Control & OS icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" />
 </p>
-
-<h3 align="center" style="text-align: justify;">🎨 Design & Prototyping</h3>
+🔧 Tools & Workflow
 <p align="center">
-  <a href="https://skillicons.dev" title="Skill Icons">
-    <img src="https://skillicons.dev/icons?i=figma&size=60" alt="Design icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,linux,figma&theme=dark" />
 </p>
-
-<h2 align="center" style="text-align: justify;">📫 Let's Connect</h2>
-
-<p align="center" style="display:flex; gap:20px;">
-  <a href="mailto:ofila12@seznam.cz" title="Email" target="_blank" rel="noopener noreferrer" style="background:#fff; border-radius:12px; padding:10px; display:flex; align-items:center;">
-    <img src="https://skillicons.dev/icons?i=gmail&size=60" alt="Email icon" />
-  </a>
-  <a href="https://www.linkedin.com/in/ond%C5%99ej-f%C3%ADla-4043272a5/" title="LinkedIn" target="_blank" rel="noopener noreferrer" style="background:#0A66C2; border-radius:12px; padding:10px; display:flex; align-items:center;">
-    <img src="https://skillicons.dev/icons?i=linkedin&size=60" alt="LinkedIn icon" style="filter: brightness(100%) invert(0);" />
-  </a>
-  <a href="https://discord.com/users/xxxondraxxx" title="Discord" target="_blank" rel="noopener noreferrer" style="background:#5865F2; border-radius:12px; padding:10px; display:flex; align-items:center;">
-    <img src="https://skillicons.dev/icons?i=discord&size=60" alt="Discord icon" style="filter: brightness(100%) invert(0);" />
-  </a>
-</p>
+---
+📊 GitHub Stats
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&langs_count=6" />
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+</div>
+---
+📫 Let's Connect
+<div align="center">
+![Email](https://img.shields.io/badge/Email-ofila12@seznam.cz-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Ondřej_Fíla-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)
+![Discord](https://img.shields.io/badge/Discord-xxxondraxxx-a78bfa?style=for-the-badge&logo=discord&logoColor=white&labelColor=0f0c29)
+</div>
+---
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
+"First, solve the problem. Then, write the code."
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
