@@ -97,5 +97,5 @@ const ondra: Developer = {
 
 "First, solve the problem. Then, write the code."
 
-<img src="https://komarev.com/ghpvc/?username=ondrejfila6969&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ondrejfila6969&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
