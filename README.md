@@ -58,15 +58,21 @@ const ondrej = {
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ondrejfila6969&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
 ---
+
 📫 Let's Connect
+
 <div align="center">
-![Email](https://img.shields.io/badge/Email-ofila12@seznam.cz-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Ondřej_Fíla-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)
-![Discord](https://img.shields.io/badge/Discord-xxxondraxxx-a78bfa?style=for-the-badge&logo=discord&logoColor=white&labelColor=0f0c29)
+<img src="https://img.shields.io/badge/Email-ofila12@seznam.cz-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Email" />
+<img src="https://img.shields.io/badge/LinkedIn-Ondřej_Fíla-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/Discord-xxxondraxxx-a78bfa?style=for-the-badge&logo=discord&logoColor=white&labelColor=0f0c29" alt="Discord" />
 </div>
+
 ---
+
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
+
 "First, solve the problem. Then, write the code."
-![Profile Views](https://komarev.com/ghpvc/?username=ondrejfila6969&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://komarev.com/ghpvc/?username=ondrejfila6969&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
