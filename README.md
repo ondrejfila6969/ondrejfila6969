@@ -7,10 +7,10 @@
 </a>
 <br/>
 <!-- PROFILE BADGES -->
-![Age](https://img.shields.io/badge/Age-18-a78bfa?style=for-the-badge&labelColor=0f0c29)
-![Location](https://img.shields.io/badge/Czech_Republic-🇨🇿-a78bfa?style=for-the-badge&labelColor=0f0c29)
-![School](https://img.shields.io/badge/SPŠ_Mladá_Boleslav-Student-a78bfa?style=for-the-badge&labelColor=0f0c29)
-![Focus](https://img.shields.io/badge/Focus-TypeScript_Backend-a78bfa?style=for-the-badge&labelColor=0f0c29)
+<img src="https://img.shields.io/badge/Age-18-a78bfa?style=for-the-badge&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Czech_Republic-🇨🇿-a78bfa?style=for-the-badge&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/SPŠ_Mladá_Boleslav-Student-a78bfa?style=for-the-badge&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Focus-TypeScript_Backend-a78bfa?style=for-the-badge&labelColor=0f0c29" />
 </div>
 ---
 🧑‍💻 About Me
