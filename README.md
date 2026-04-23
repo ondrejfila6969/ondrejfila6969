@@ -86,9 +86,15 @@ const ondra: Developer = {
 📫 Let's Connect
 
 <div align="center">
-<img src="https://img.shields.io/badge/Email-ofila12@seznam.cz-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Email" />
-<img src="https://img.shields.io/badge/LinkedIn-Ondřej_Fíla-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn" />
-<img src="https://img.shields.io/badge/Discord-xxxondraxxx-a78bfa?style=for-the-badge&logo=discord&logoColor=white&labelColor=0f0c29" alt="Discord" />
+<a href="mailto:ofila12@seznam.cz">
+  <img src="https://img.shields.io/badge/Email-ofila12@seznam.cz-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/ond%C5%99ej-f%C3%ADla-4043272a5/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ondřej_Fíla-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn" />
+</a>
+<a href="https://discord.com/users/xxxondraxxx">
+  <img src="https://img.shields.io/badge/Discord-xxxondraxxx-a78bfa?style=for-the-badge&logo=discord&logoColor=white&labelColor=0f0c29" alt="Discord" />
+</a>
 </div>
 
 
