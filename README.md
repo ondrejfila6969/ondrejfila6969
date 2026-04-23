@@ -68,5 +68,5 @@ const ondrej = {
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
 "First, solve the problem. Then, write the code."
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ondrejfila6969&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
